@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayushman Banerjee
 
-<!--
-**Ayushman3108/Ayushman3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Engineering student**
+💻 Passionate about *Full-Stack Web Development, AI, and Cloud Computing*
+🚀 Currently working on frontend projects.
+📊 Practicing DSA 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* **Languages:** Java, Python, SQL, JavaScript, HTML, CSS, React.js
+* **Libraries/Frameworks:** React, Node.js, Express, Tailwind CSS, Bootstrap
+* **Tools & Platforms:** Git, GitHub, VS Code, Docker, IBM Cloud CLI
+
+
+## 📈 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight&margin_order=2" alt="Ayushman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman3108&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushman3108&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+## 🌍 Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/www.linkedin.com/in/ayushman-banerjee-11742437b)
+[<img src="https://img.shields.io/badge/portfolio-%230A0A0A.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://github.com/Ayushman3108/portfolio)
