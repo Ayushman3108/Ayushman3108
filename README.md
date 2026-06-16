@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayushman Banerjee
 
 🎓 **B.Tech Computer Science Engineering student**
-💻 Passionate about *Full-Stack Web Development, AI, and Cloud Computing*
+💻 Passionate about **Full-Stack Web Development, AI, and Cloud Computing**
 🚀 Currently working on frontend projects.
 📊 Practicing DSA 
 
@@ -11,7 +11,7 @@
 * **Languages:** Java, Python, SQL, JavaScript, HTML, CSS, React.js
 * **Libraries/Frameworks:** React, Node.js, Express, Tailwind CSS, Bootstrap
 * **Tools & Platforms:** Git, GitHub, VS Code, Docker, IBM Cloud CLI
-
+* **Cloud:** AWS
 
 ## 📈 GitHub Stats & Activity
 
