@@ -18,13 +18,13 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight&margin_order=2" alt="Ayushman's GitHub Stats" width="48%" />
   <p align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight" alt="Ayushman's GitHub Stats" width="48%" />
 
-  <!-- Top Languages Card -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayushman3108&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Ayushman3108&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
