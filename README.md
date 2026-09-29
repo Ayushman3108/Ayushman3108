@@ -28,4 +28,4 @@
 ## 🌍 Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/www.linkedin.com/in/ayushman-banerjee-11742437b)
-[<img src="https://img.shields.io/badge/portfolio-%230A0A0A.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://github.com/Ayushman3108/portfolio)
+[<img src="https://img.shields.io/badge/instagram-%230A0A0A.svg?style=for-the-badge&logo=instagram&logoColor=purple" />](https://www.instagram.com/ayushman_2006/Instagram)
