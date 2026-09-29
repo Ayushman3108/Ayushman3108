@@ -17,11 +17,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight&margin_order=2" alt="Ayushman's GitHub Stats" width="48%" />
+  <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman3108&show_icons=true&theme=tokyonight" alt="Ayushman's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman3108&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushman3108&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
